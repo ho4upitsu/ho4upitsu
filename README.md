@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksym Tymoshenko</h1>
 <h3 align="center">A passionate backend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Skarpette](https://github.com/Skarpette-Socks/Skarpette)  
+- 🔭 I’m currently working on [PropTest](https://github.com/ho4upitsu/diploma)  
   A web application for managing socks inventory with features like category filtering, order creation, and AWS S3 image storage.
 
 - 🌱 I’m currently learning **React**  
